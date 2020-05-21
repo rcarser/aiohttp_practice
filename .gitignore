@@ -1,0 +1,10 @@
+# VSCode
+.vscode
+.devcontainer
+
+# Pycharm
+.idea
+
+# OS folders
+.DS_Store
+.directory
